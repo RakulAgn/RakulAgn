@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Personal Project**
 
-- 🌱 I’m currently learning **JavaScript,Html,Css,NodeJs**
+- 🌱 I’m currently learning **JavaScript,Html,Css,NodeJs || Flutter**
 
 
 <h3 align="left">Languages and Tools:</h3>
