@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rakul Agn</h1>
 <h3 align="center">A passionate frontend Android developer Using Flutter Framework</h3>
 
-<p align="center">- 🌱 I’m currently learning **Flutter and Dart** and also **JavaScript**</p>
+<p align="center">- 🌱 I’m currently learning <b>Flutter and Dart</b> and also <b>JavaScript</b></p>
 <p align="center">-    I’m Looking For Help to Create Backend Concept with My Existing Projects</p>
 
 
