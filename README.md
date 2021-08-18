@@ -1,10 +1,10 @@
-<h1 align="center">Hi 👋, I'm Rakul</h1>
+<h1 align="center">Hi 👋, I'm Rakul Agn</h1>
 <h3 align="center">A passionate frontend Android developer Using Flutter Framework</h3>
 
 - 🌱 I’m currently learning **Flutter and Dart** and also **JavaScript**
 -    I’m Looking For Help to Create Backend Concept with My Existing Projects  
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="center">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/rakul-agn-9869241a0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rakul-agn-9869241a0/" height="30" width="40" /></a>
 </p>
