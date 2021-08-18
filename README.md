@@ -16,3 +16,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rakulagn&show_icons=true&locale=en&layout=compact" alt="rakulagn" /></p>
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=rakulagn&" alt="rakulagn" /></p>
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rakulagn&show_icons=true&locale=en&layout=compact" alt="rakulagn" /></p>
