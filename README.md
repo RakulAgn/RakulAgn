@@ -1,13 +1,12 @@
- <h1 align="center">Hi 👋, I'm Rakul Agn</h1>
-    <h3 align="center">A passionate frontend Android developer Using Flutter Framework</h3>
+<h1 align="center">Hi 👋, I'm Rakul Agn</h1>
+<h3 align="center">A passionate frontend Android developer Using Flutter Framework</h3>
 
-    <p align="center">- 🌱 I’m currently learning <b>Flutter and Dart</b> and also <b>JavaScript</b></p>
-    <p align="center">- I’m Looking For Help to Create <b>Backend</b> Concept with My Existing Projects</p>
+<p align="center">- 🌱 I’m currently learning <b>Flutter and Dart</b> and also <b>JavaScript</b></p>
+<p align="center">- I’m Looking For Help to Create <b>Backend</b> Concept with My Existing Projects</p>
 
+<h3 align="center">Connect with me:</h3>
 
-    <h3 align="center">Connect with me:</h3>
-
-    <p align="center">
+<p align="center">
         <a href="https://linkedin.com/in/https://www.linkedin.com/in/rakul-agn-9869241a0/" target="blank"><img
                 align="center"
                 src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
@@ -44,14 +43,13 @@
                 alt="photoshop" width="50" height="50" /> </a> </p>
 
 
-    <br>
+ <br>
     <br>
     <center>
         <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rakulagn&show_icons=true&locale=en&layout=compact"
             alt="rakulagn" /></h1>
     </center>
-
-    <br>
+ <br>
     <center>
         <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=rakulagn&" alt="rakulagn" />
         </p>
