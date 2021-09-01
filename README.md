@@ -1,8 +1,8 @@
 <h1 align="center">Hey <img src="https://github.com/MaxxRider/MaxxRider/blob/main/gifs/Hi.gif" width="30px"> I'm Rakul Agn</h1>
-<h3 align="center">A Passionate Frontend Developer From மதுரை/Madurai/मदुरै</h3>
+<h3 align="center">A Passionate Frontend Developer</h3>
 
 <p align="center">- 🌱 I’m currently learning <b>Android Development Using Flutter Framework</b> and also <b>Web Development Using JavaScript with React</b></p>
-<p align="center">- I’m Looking For Help to Create <b>Backend</b> Concept with My Existing Projects</p>
+<p align="center">- 🔭I’m currently pursuing my 3rd year Master of Computer Application in <b>PSG College of Arts and Science</b></p>
 
 <h3 align="center">Connect with me:</h3>
 
