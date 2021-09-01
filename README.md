@@ -1,7 +1,7 @@
 <h1 align="center">Hey <img src="https://github.com/MaxxRider/MaxxRider/blob/main/gifs/Hi.gif" width="30px"> I'm Rakul Agn</h1>
-<h3 align="center">A passionate frontend Android developer Using Flutter Framework</h3>
+<h3 align="center">A Passionate Frontend Android developer Using Flutter Framework</h3>
 
-<p align="center">- 🌱 I’m currently learning <b>Flutter and Dart</b> and also <b>JavaScript</b></p>
+<p align="center">- 🌱 I’m currently learning <b>Android Development Using Flutter Framework</b> and also <b>Web Development Using JavaScript with React</b></p>
 <p align="center">- I’m Looking For Help to Create <b>Backend</b> Concept with My Existing Projects</p>
 
 <h3 align="center">Connect with me:</h3>
