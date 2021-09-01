@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://github.com/MaxxRider/MaxxRider/blob/main/gifs/Hi.gif" width="30px">, I'm Rakul Agn</h1>
+<h1 align="center">Hey <img src="https://github.com/MaxxRider/MaxxRider/blob/main/gifs/Hi.gif" width="30px"> I'm Rakul Agn</h1>
 <h3 align="center">A passionate frontend Android developer Using Flutter Framework</h3>
 
 <p align="center">- 🌱 I’m currently learning <b>Flutter and Dart</b> and also <b>JavaScript</b></p>
