@@ -1,4 +1,4 @@
-![Rakul](https://user-images.githubusercontent.com/70213104/141691183-b426de1e-6852-4d37-a4f0-1a83436203b8.png)(https://rakulagn.github.io/Portfolio/)
+[![Rakul](https://user-images.githubusercontent.com/70213104/141691183-b426de1e-6852-4d37-a4f0-1a83436203b8.png)](https://rakulagn.github.io/Portfolio/)
 
 <h3 align="center">A Passionate Frontend Developer</h3>
 
