@@ -1,4 +1,5 @@
-<h1 align="center">Hey <img src="https://github.com/MaxxRider/MaxxRider/blob/main/gifs/Hi.gif" width="30px"> I'm Rakul Agn</h1>
+![banner](https://user-images.githubusercontent.com/70213104/141691183-b426de1e-6852-4d37-a4f0-1a83436203b8.png)
+
 <h3 align="center">A Passionate Frontend Developer</h3>
 
 <p align="center">- 🌱 I’m currently learning <b>Android Development Using Flutter Framework</b> and also <b>Web Development Using JavaScript with React</b></p>
