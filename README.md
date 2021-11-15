@@ -24,7 +24,7 @@ Want to know more about me? [Check out my portfolio.](https://rakulagn.github.io
 ![](https://img.shields.io/badge/Code-MongoDB-informational?style=flat&logo=MongoDB&logoColor=green&color=4AB197)
 ![](https://img.shields.io/badge/Tools-Photoshop-informational?style=flat&logo=Adobe-Photoshop&logoColorwhite=&color=4AB197)
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&logoColor=black&color=4AB197)
-![](https://img.shields.io/badge/Code-Dart-informational?style=flat&logo=dart&logoColor=blue&color=4AB197)
+![](https://img.shields.io/badge/Code-Dart-informational?style=flat&logo=dart&logoColor=bluelight&color=4AB197)
 ![](https://img.shields.io/badge/FrameWork-Flutter-informational?style=flat&logo=flutter&logoColor=blue&color=4AB197)
 
 
