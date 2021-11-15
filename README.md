@@ -1,6 +1,24 @@
 [![Rakul](https://user-images.githubusercontent.com/70213104/141691183-b426de1e-6852-4d37-a4f0-1a83436203b8.png)](https://rakulagn.github.io/Portfolio/)
+[![Visits Badge](https://badges.pufler.dev/visits/braydoncoyer/braydoncoyer)](https://rakulagn.github.io/Portfolio/)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/rakul-agn-9869241a0/)
 
-<h3 align="center">A Passionate Frontend Developer</h3>
+Hey There,
+        I'm Rakul, a Beginner Flutter Developer, Currently My Mission to Succceed 100 Days of Flutter. Building Basic Flutter Projects and Learning About Flutter Architecture and State Management Concepts.
+        
+Want to know more about me? [Check out my portfolio.](https://rakulagn.github.io/Portfolio/)
+
+
+## 📌 Pinned Repositories 📌
+
+<br>
+
+<a href="https://github.com/RakulAgn/Flutter100Days">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=RakulAgn&repo=Flutter100Days
+&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
+<br>
+
 
 <p align="center">- 🌱 I’m currently learning <b>Android Development Using Flutter Framework</b> and also <b>Web Development Using JavaScript with React</b></p>
 <p align="center">- 🔭I’m currently pursuing my 3rd year Master of Computer Application in <b>PSG College of Arts and Science</b></p>
