@@ -18,13 +18,31 @@ Want to know more about me? [Check out my portfolio.](https://rakulagn.github.io
 
 <br>
 
+
+## &#x1f4c8; GitHub Stats
+
+<br>
+
+<a href="https://github.com/RakulAgn">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RakulAgn&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
+<a href="https://github.com/RakulAgn">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=RakulAgn&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Rakul's GitHub Stats" />
+</a>
+
+<br>
+<br>
+
 ## 💼 Skills 💼
 
+
+![](https://img.shields.io/badge/Code-Dart-informational?style=flat&logo=dart&logoColor=blue&color=4AB197)
+![](https://img.shields.io/badge/FrameWork-Flutter-informational?style=flat&logo=flutter&logoColor=blue&color=4AB197)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=yellow&color=4AB197)
 ![](https://img.shields.io/badge/Code-MongoDB-informational?style=flat&logo=MongoDB&logoColor=green&color=4AB197)
 ![](https://img.shields.io/badge/Tools-Photoshop-informational?style=flat&logo=Adobe-Photoshop&logoColorwhite=&color=4AB197)
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&logoColor=black&color=4AB197)
-![](https://img.shields.io/badge/Code-Dart-informational?style=flat&logo=dart&logoColor=maya&color=4AB197)
-![](https://img.shields.io/badge/FrameWork-Flutter-informational?style=flat&logo=flutter&logoColor=blue&color=4AB197)
+![](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&logoColor=white&color=4AB197)
 
 
