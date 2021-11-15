@@ -1,7 +1,7 @@
 [![Rakul](https://user-images.githubusercontent.com/70213104/141691183-b426de1e-6852-4d37-a4f0-1a83436203b8.png)](https://rakulagn.github.io/Portfolio/)
 [![Visits Badge](https://badges.pufler.dev/visits/RakulAgn/RakulAgn)](https://rakulagn.github.io/Portfolio/)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/rakul-agn-9869241a0/)
-[![Instagram Badge](https://img.shields.io/badge/instagram-Profile-informational?style=flat&logo=instagram&logoColor=white&color=0D76A8)](https://www.instagram.com/agn.flutter/)
+[![Instagram Badge](https://img.shields.io/badge/instagram-Profile-informational?style=flat&logo=instagram&logoColor=pruple&color=0D76A8)](https://www.instagram.com/agn.flutter/)
 
 
 Hey There,<br>
