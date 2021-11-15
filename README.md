@@ -24,8 +24,10 @@ Want to know more about me? [Check out my portfolio.](https://rakulagn.github.io
 <br>
 
 <a href="https://github.com/RakulAgn">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RakulAgn&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34&with=40" />
-</a> <a href="https://github.com/RakulAgn">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RakulAgn&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+<br>
+<a href="https://github.com/RakulAgn">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=RakulAgn&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Rakul's GitHub Stats" />
 </a>
 
@@ -42,6 +44,6 @@ Want to know more about me? [Check out my portfolio.](https://rakulagn.github.io
 ![](https://img.shields.io/badge/Tools-Photoshop-informational?style=flat&logo=Adobe-Photoshop&logoColorwhite=&color=4AB197)
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&logoColor=black&color=4AB197)
 ![](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tool-NodeJs-informational?style=flat&logo=Nodejs&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Tools-NPM-informational?style=flat&logo=npm&logoColor=white&color=4AB197)
 
 
