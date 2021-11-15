@@ -4,6 +4,7 @@
 
 Hey There,
         I'm Rakul, a Beginner Flutter Developer, Currently My Mission to Succceed 100 Days of Flutter. Building Basic Flutter Projects and Learning About Flutter Architecture and State Management Concepts.
+        Doing Final Year MCA at [PSG COLLEGE OF ARTS AND SCIENCE](https://www.psgcas.ac.in/) !!!!
         
 Want to know more about me? [Check out my portfolio.](https://rakulagn.github.io/Portfolio/)
 
