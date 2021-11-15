@@ -1,5 +1,5 @@
 [![Rakul](https://user-images.githubusercontent.com/70213104/141691183-b426de1e-6852-4d37-a4f0-1a83436203b8.png)](https://rakulagn.github.io/Portfolio/)
-[![Visits Badge](https://badges.pufler.dev/visits/braydoncoyer/braydoncoyer)](https://rakulagn.github.io/Portfolio/)
+[![Visits Badge](https://badges.pufler.dev/visits/RakulAgn/RakulAgn)](https://rakulagn.github.io/Portfolio/)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/rakul-agn-9869241a0/)
 
 Hey There,
@@ -12,10 +12,7 @@ Want to know more about me? [Check out my portfolio.](https://rakulagn.github.io
 
 <br>
 
-<a href="https://github.com/RakulAgn/Flutter100Days">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=RakulAgn&repo=Flutter100Days
-&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
 <br>
 
