@@ -11,13 +11,8 @@ Want to know more about me? [Check out my portfolio.](https://rakulagn.github.io
 ## 📌 Pinned Repositories 📌
 
 <br>
-
-<center>
-[![Repositories](https://github-readme-stats.vercel.app/api/pin/?username=RakulAgn&repo=Firestore-Ops)](https://github.com/RakulAgn/Firestore-Ops)    
+[![Repositories](https://github-readme-stats.vercel.app/api/pin/?username=RakulAgn&repo=Firestore-Ops)](https://github.com/RakulAgn/Firestore-Ops) <br> 
 [![Repositories](https://github-readme-stats.vercel.app/api/pin/?username=RakulAgn&repo=Flutter100Days)](https://github.com/RakulAgn/Flutter100Days) 
-</center> 
-
-
 <br>
 
 
