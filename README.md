@@ -42,6 +42,6 @@ Want to know more about me? [Check out my portfolio.](https://rakulagn.github.io
 ![](https://img.shields.io/badge/Tools-Photoshop-informational?style=flat&logo=Adobe-Photoshop&logoColorwhite=&color=4AB197)
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&logoColor=black&color=4AB197)
 ![](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tool-NodeJs-informational?style=flat&logo=nodejs3&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Tool-NodeJs-informational?style=flat&logo=nodejs&logoColor=white&color=4AB197)
 
 
