@@ -9,7 +9,7 @@ Hey There,<br>
         Doing Final Year MCA at <b>[PSG COLLEGE OF ARTS AND SCIENCE](https://www.psgcas.ac.in/)</b> !!!!
 
         
-Want to know more about me? [Check out my portfolio.](https://rakulagn.github.io/Portfolio/)
+Want to know more about me? <b>[Check out my Portfolio.](https://rakulagn.github.io/Portfolio/)</b>
 
 
 ## 📌 Pinned Repositories 📌
