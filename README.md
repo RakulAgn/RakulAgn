@@ -12,7 +12,7 @@ Want to know more about me? [Check out my portfolio.](https://rakulagn.github.io
 
 <br>
 
-[![Repositories](https://github-readme-stats.vercel.app/api/pin/?username=RakulAgn&repo=Firestore-Ops)](https://github.com/RakulAgn/Firestore-Ops)
+[![Repositories](https://github-readme-stats.vercel.app/api/pin/?username=RakulAgn&repo=Firestore-Ops)](https://github.com/RakulAgn/Firestore-Ops)  [![Repositories](https://github-readme-stats.vercel.app/api/pin/?username=RakulAgn&repo=Flutter 100 Days)](https://github.com/RakulAgn/Flutter100Days)
 
 
 <br>
