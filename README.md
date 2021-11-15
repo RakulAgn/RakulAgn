@@ -3,8 +3,8 @@
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/rakul-agn-9869241a0/)
 
 Hey There,
-        I'm Rakul, a Beginner Flutter Developer, Currently My Mission to Succceed 100 Days of Flutter. Building Basic Flutter Projects and Learning About Flutter Architecture and State Management Concepts.
-        Doing Final Year MCA at [PSG COLLEGE OF ARTS AND SCIENCE](https://www.psgcas.ac.in/) !!!!
+        I'm Rakul, a Beginner Flutter Developer, Currently My Mission to Succceed 100 Days of Flutter. Building Basic Flutter Projects and Learning About Flutter Architecture and State Management Concepts.<br>
+        Doing Final Year MCA at <b>[PSG COLLEGE OF ARTS AND SCIENCE](https://www.psgcas.ac.in/)</b> !!!!
         
 Want to know more about me? [Check out my portfolio.](https://rakulagn.github.io/Portfolio/)
 
