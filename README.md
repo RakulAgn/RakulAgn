@@ -1,41 +1,35 @@
-[![Rakul](https://user-images.githubusercontent.com/70213104/141691183-b426de1e-6852-4d37-a4f0-1a83436203b8.png)](https://rakulagn.github.io/Portfolio/)
-[![Visits Badge](https://badges.pufler.dev/visits/RakulAgn/RakulAgn)](https://rakulagn.github.io/Portfolio/)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/rakul-agn-9869241a0/)
-[![Instagram Badge](https://img.shields.io/badge/instagram-Profile-informational?style=flat&logo=instagram&logoColor=pruple&color=0D76A8)](https://www.instagram.com/agn.flutter/)
+<h1 align="center">Hi 👋, I'm Rakul AGN</h1>
 
-
-Hey There,<br>
-        I'm Rakul, a Beginner Flutter Developer, Currently My Mission to Succceed 100 Days of Flutter. Building Basic Flutter Projects and Learning About Flutter Architecture and State Management Concepts.<br><br>
-        Doing Final Year MCA at <b>[PSG COLLEGE OF ARTS AND SCIENCE](https://www.psgcas.ac.in/)</b> !!!!
-
-        
-Want to know more about me? <b>[Check out my Portfolio.](https://rakulagn.github.io/Portfolio/)</b>
-
-
-## 📌 Pinned Repositories 📌
 
 <br>
 
-[![Repositories](https://github-readme-stats.vercel.app/api/pin/?username=RakulAgn&repo=Firestore-Ops&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34)](https://github.com/RakulAgn/Firestore-Ops)
-[![Repositories](https://github-readme-stats.vercel.app/api/pin/?username=RakulAgn&repo=Flutter100Days&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34)](https://github.com/RakulAgn/Flutter100Days)
-[![Repositories](https://github-readme-stats.vercel.app/api/pin/?username=RakulAgn&repo=ComplaintBox-WithoutBackEnd-V2&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34)](https://github.com/RakulAgn/ComplaintBox-WithoutBackEnd-V2) 
+<p align="right"> <h3>Profile Views :-</h3> <img src="https://badges.pufler.dev/visits/RakulAgn/RakulAgn)](https://rakulagn.github.io/Portfolio/"
+    alt="adam-pw" /> 
+  </p>
 
 <br>
 
 
-## &#x1f4c8; GitHub Stats &#x1f4c8;
+- 🌱 I’m currently learning Flutter Development and other programming languages
 
+- 📫 How to reach me **rakul0agn@gmail.com**
+
+
+
+## My Statistics
+
+<br/>
+<p align="left">
+  <a href="https://github.com/RakulAgn">
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RakulAgn&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=RakulAgn&theme=gruvbox&hide_border=true" />
+  </a>
+</p>
 <br>
 
-<a href="https://github.com/RakulAgn">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RakulAgn&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
+[![Abhigyan Trips' Activity Graph](https://github-readme-stats.vercel.app/api?username=RakulAgn&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34)](https://github.com/RakulAgn)
 
-<a href="https://github.com/RakulAgn">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=RakulAgn&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Rakul's GitHub Stats" />
-</a>
 
-<br>
 
 
 ## 💼 Skills 💼
