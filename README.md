@@ -1,4 +1,4 @@
-:wave: <h1 align="center">Hi 👋, I'm Rakul AGN</h1>
+ <h1 align="center">Hi :wave: I'm Rakul AGN</h1>
 
 ![](https://komarev.com/ghpvc/?username=Rakulagn&color=blueviolet&style=flat-square)
 
