@@ -16,7 +16,8 @@
 
 :bar_chart: GitHub stats
 
-![Reg Rakul's github stats](https://github-readme-stats.vercel.app/api?username=Rakulagn&show_icons=true&title_color=19F9D8&icon_color=19F9D8&bg_color=002B36&text_color=FFFFFF) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rakulagn&layout=compact&title_color=19F9D8&icon_color=19F9D8&bg_color=002B36&text_color=FFFFFF)
+![Reg Rakul's github stats](https://github-readme-stats.vercel.app/api?username=Rakulagn&show_icons=true&title_color=19F9D8&icon_color=19F9D8&bg_color=002B36&text_color=FFFFFF) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rakulagn&layout=compact&title_color=19F9D8&icon_color=19F9D8&bg_color=002B36&text_color=FFFFFF)
 
 
 
