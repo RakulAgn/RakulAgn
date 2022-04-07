@@ -19,10 +19,10 @@
  <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=Rakulagn&show_icons=true&title_color=00AEDDFF&text_color=FCFCFC&icon_color=00AEDDFF&bg_color=151515&border_color=FCFCFC&border_radius=8&include_all_commits=true&count_private=true"/>
     <img src="http://github-readme-streak-stats.herokuapp.com?user=Rakulagn&background=151515&currStreakNum=FFFFFF&border=FFFFFF&stroke=FFFFFF&ring=00AEDD&fire=00AEDD&sideNums=FFFFFF&currStreakLabel=00AEDD&sideLabels=FFFFFF&dates=FFFFFF"/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rakulagn&layout=compact&title_color=19F9D8&icon_color=19F9D8&bg_color=002B36&text_color=FFFFFF)
 </p>
 
-![Reg Rakul's github stats](https://github-readme-stats.vercel.app/api?username=Rakulagn&show_icons=true&title_color=19F9D8&icon_color=19F9D8&bg_color=002B36&text_color=FFFFFF) 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rakulagn&layout=compact&title_color=19F9D8&icon_color=19F9D8&bg_color=002B36&text_color=FFFFFF)
+
 
 
 
