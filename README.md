@@ -1,5 +1,5 @@
  <h1 align="center">Hi :wave: I'm Rakul AGN</h1>
- <h2>  JUNIOR FLUTTER DEVELOPER </h2>
+ <h2 align="center">  JUNIOR FLUTTER DEVELOPER </h2>
 
 ![](https://komarev.com/ghpvc/?username=Rakulagn&color=blueviolet&style=flat-square)
 
